@@ -75,8 +75,8 @@ line-height: 2;
 list-style-type: disc; 
 margin-left: 20px;
 }
+
 .line {
-  
    border: 1px straight #ccc; 
    padding: 10px;
    margin-top: 25px;
@@ -157,6 +157,7 @@ margin-left: 20px;
     background-color: hsl(30, 54%, 90%);
     padding: 30px;
   }
+
   .main-area {
     width: 60%;
     border-radius: 15px;
@@ -170,10 +171,12 @@ margin-left: 20px;
   padding: 30px 46px;
   background-color: white;
 }
+
 .main-heading {
   padding-top:0px;
    margin:0px;
 }
+
   .image-wrapper {
     width: 70%;
     margin: 0 auto;
@@ -185,14 +188,16 @@ margin-left: 20px;
     justify-content:center;
      padding-bottom:0px;
   }
+
   img {
     width: calc(100% - 80px) !important;
     border-radius: 15px;
-  
   }
+
 .display {
   padding-left: 40px;
 }
+
 .font-size {
   padding-left:40px;
 }
